@@ -1,4 +1,4 @@
-# Notes Pytorch
+# Notes PyTorch
 
 The references of these notes are:
 
